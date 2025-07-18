@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi there, I'm [Ostap](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+# I'm [Ostap](https://daniilshat.ru/) 
 ### Programer and  Csharp developer.
 #
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
