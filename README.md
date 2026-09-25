@@ -34,7 +34,7 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 
-<!-- Profile Details Summary (очень надежный сервис) -->
+<!-- Карточка с общей статистикой и графиком вкладов -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OstapRedneb&theme=synthwave" alt="Profile Details" />
 </p>
@@ -50,10 +50,9 @@
   </a>
 </p>
 
+<!-- Замена сломанного Activity Graph на Productive Time -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OstapRedneb&theme=synthwave&bg_color=1a1a1a&color=ff00ff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OstapRedneb&theme=synthwave&utcOffset=3" alt="Productive Time" />
 </p>
 
 <p align="center">
