@@ -17,16 +17,16 @@
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
   <br>
-  <img src="https://img.shields.io/badge/WinForms-FF00FF?style=for-the-badge&logo=dotnet&logoColor=00FFFF" alt="WinForms">
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-00FFFF?style=for-the-badge&logo=dotnet&logoColor=FF00FF" alt="ASP.NET MVC">
-  <img src="https://img.shields.io/badge/Entity_Framework-FF00FF?style=for-the-badge&logo=dotnet&logoColor=00FFFF" alt="Entity Framework">
-  <img src="https://img.shields.io/badge/VS_Code-00FFFF?style=for-the-badge&logo=visualstudiocode&logoColor=FF00FF" alt="VS Code">
+  <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="WinForms">
+  <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC">
+  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
   <br>
-  <img src="https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&logo=sqlite&logoColor=00FFFF" alt="SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-00FFFF?style=for-the-badge&logo=postgresql&logoColor=FF00FF" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-FF00FF?style=for-the-badge&logo=mysql&logoColor=00FFFF" alt="MySQL">
-  <img src="https://img.shields.io/badge/MSSQL-00FFFF?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF00FF" alt="MSSQL">
-  <img src="https://img.shields.io/badge/DBeaver-FF00FF?style=for-the-badge&logo=dbeaver&logoColor=00FFFF" alt="DBeaver">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="MSSQL">
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
   <br>
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint">
   <img src="https://img.shields.io/badge/Chromium-4285F4?style=for-the-badge&logo=chromium&logoColor=white" alt="Chromium">
@@ -35,12 +35,12 @@
 <h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OstapRedneb&layout=compact&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Top Langs" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OstapRedneb&layout=compact&theme=synthwave&hide_border=true" alt="Top Langs" />
   </a>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=OstapRedneb&show_icons=true&theme=synthwave&hide_border=true&cache_seconds=86400" alt="Ostap's GitHub stats" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=OstapRedneb&show_icons=true&theme=synthwave&hide_border=true" alt="Ostap's GitHub stats" />
   </a>
 </p>
 
@@ -50,16 +50,14 @@
   </a>
 </p>
 
+<!-- Snake Animation -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OstapRedneb&theme=synthwave&no-frame=true&no-bg=true&margin-w=15&cache_seconds=86400" alt="trophy" />
-  </a>
+  <img src="https://raw.githubusercontent.com/OstapRedneb/OstapRedneb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
+<!-- 3D Contribution Graph -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OstapRedneb&theme=synthwave&bg_color=1a1a1a&color=ff00ff&line=00ffff&point=ffffff&area=true&hide_border=true&cache_seconds=86400" alt="Ashutosh's github activity graph" />
-  </a>
+  <img src="https://raw.githubusercontent.com/OstapRedneb/OstapRedneb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 <p align="center">
