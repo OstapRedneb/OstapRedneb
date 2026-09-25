@@ -34,14 +34,14 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 
+<!-- Profile Details Summary (очень надежный сервис) -->
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=OstapRedneb&layout=compact&theme=synthwave&hide_border=true" alt="Top Langs" />
-  </a>
-  <br/>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=OstapRedneb&show_icons=true&theme=synthwave&hide_border=true" alt="Ostap's GitHub stats" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OstapRedneb&theme=synthwave" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OstapRedneb&theme=synthwave" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=OstapRedneb&theme=synthwave" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -50,14 +50,10 @@
   </a>
 </p>
 
-<!-- Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OstapRedneb/OstapRedneb/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-<!-- 3D Contribution Graph -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OstapRedneb/OstapRedneb/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=OstapRedneb&theme=synthwave&bg_color=1a1a1a&color=ff00ff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 <p align="center">
